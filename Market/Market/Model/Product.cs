@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Market.Model
 {
@@ -11,6 +12,7 @@ namespace Market.Model
         public string Image { get; set; }
         public int Category_ID { get; set; }
         [ForeignKey("Category_ID")]
+        [JsonIgnore]
         public Category Category { get; set; }
     }
 }

@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "1nwE7/9bzaJr4UNd0ZEDbKvymyeR0b12b+KZ1RW5R94=",
+  "Hash": "tplRrsNW52o2pqMMx72pWvwiSKsGF8KahnfeqoOhSBM=",
   "Source": "Market",
   "BasePath": "_content/Market",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Market\\wwwroot",
+      "Source": "Market",
+      "ContentRoot": "E:\\MVC projects\\Market\\Market\\wwwroot\\",
+      "BasePath": "_content/Market",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\3084ce7c-9c9a-4bb5-8c41-fb37232d5684.jpeg",
+      "SourceId": "Market",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC projects\\Market\\Market\\wwwroot\\",
+      "BasePath": "_content/Market",
+      "RelativePath": "assets/image/product/3084ce7c-9c9a-4bb5-8c41-fb37232d5684.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\image\\product\\3084ce7c-9c9a-4bb5-8c41-fb37232d5684.jpeg"
+    },
+    {
+      "Identity": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\cf9fa580-8e4c-4691-989b-aabf94b9f6df.webp",
+      "SourceId": "Market",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC projects\\Market\\Market\\wwwroot\\",
+      "BasePath": "_content/Market",
+      "RelativePath": "assets/image/product/cf9fa580-8e4c-4691-989b-aabf94b9f6df.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\image\\product\\cf9fa580-8e4c-4691-989b-aabf94b9f6df.webp"
+    },
+    {
+      "Identity": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\e1c7a90b-fc92-4cd1-820a-6fd234035e84.jpeg",
+      "SourceId": "Market",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC projects\\Market\\Market\\wwwroot\\",
+      "BasePath": "_content/Market",
+      "RelativePath": "assets/image/product/e1c7a90b-fc92-4cd1-820a-6fd234035e84.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\image\\product\\e1c7a90b-fc92-4cd1-820a-6fd234035e84.jpeg"
+    }
+  ]
 }

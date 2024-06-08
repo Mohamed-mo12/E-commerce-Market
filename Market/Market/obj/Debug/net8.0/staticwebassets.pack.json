@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\3084ce7c-9c9a-4bb5-8c41-fb37232d5684.jpeg",
+      "PackagePath": "staticwebassets\\assets\\image\\product\\3084ce7c-9c9a-4bb5-8c41-fb37232d5684.jpeg"
+    },
+    {
+      "Id": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\cf9fa580-8e4c-4691-989b-aabf94b9f6df.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\product\\cf9fa580-8e4c-4691-989b-aabf94b9f6df.webp"
+    },
+    {
+      "Id": "E:\\MVC projects\\Market\\Market\\wwwroot\\assets\\image\\product\\e1c7a90b-fc92-4cd1-820a-6fd234035e84.jpeg",
+      "PackagePath": "staticwebassets\\assets\\image\\product\\e1c7a90b-fc92-4cd1-820a-6fd234035e84.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Market.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Market.props",
+      "PackagePath": "build\\Market.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Market.props",
+      "PackagePath": "buildMultiTargeting\\Market.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Market.props",
+      "PackagePath": "buildTransitive\\Market.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

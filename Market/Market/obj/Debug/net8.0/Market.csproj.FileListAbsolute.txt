@@ -142,3 +142,4 @@ E:\MVC projects\Market\Market\obj\Debug\net8.0\Market.pdb
 E:\MVC projects\Market\Market\obj\Debug\net8.0\Market.genruntimeconfig.cache
 E:\MVC projects\Market\Market\obj\Debug\net8.0\ref\Market.dll
 E:\MVC projects\Market\Market\bin\Debug\net8.0\AutoMapper.dll
+E:\MVC projects\Market\Market\bin\Debug\net8.0\Market.staticwebassets.runtime.json
