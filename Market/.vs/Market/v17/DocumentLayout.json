@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVC projects\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\dto\\products\\productdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\dto\\products\\productdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\services\\iproductservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\services\\iproductservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\dto\\products\\prodcutsearchdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\dto\\products\\prodcutsearchdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|e:\\mvc projects\\market\\market\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773C11-62DC-4022-8E42-CDB72BF3B8E9}|Market\\Market.csproj|solutionrelative:market\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Market\\Services\\ProductService.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Services\\ProductService.cs",
+              "RelativeToolTip": "Market\\Services\\ProductService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:27:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\appsettings.json",
+              "RelativeDocumentMoniker": "Market\\appsettings.json",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\appsettings.json",
+              "RelativeToolTip": "Market\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T12:25:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdcutSearchDataDTo.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\DTO\\Products\\ProdcutSearchDataDTo.cs",
+              "RelativeDocumentMoniker": "Market\\DTO\\Products\\ProdcutSearchDataDTo.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\DTO\\Products\\ProdcutSearchDataDTo.cs",
+              "RelativeToolTip": "Market\\DTO\\Products\\ProdcutSearchDataDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:21:48.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Program.cs",
+              "RelativeDocumentMoniker": "Market\\Program.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Program.cs",
+              "RelativeToolTip": "Market\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:47:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Market\\Model\\Product.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Model\\Product.cs",
+              "RelativeToolTip": "Market\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:35:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDataDTO.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\DTO\\Products\\ProductDataDTO.cs",
+              "RelativeDocumentMoniker": "Market\\DTO\\Products\\ProductDataDTO.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\DTO\\Products\\ProductDataDTO.cs",
+              "RelativeToolTip": "Market\\DTO\\Products\\ProductDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:35:40.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Market\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:14:32.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService .cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Services\\IProductService .cs",
+              "RelativeDocumentMoniker": "Market\\Services\\IProductService .cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Services\\IProductService .cs",
+              "RelativeToolTip": "Market\\Services\\IProductService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:13:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MVC projects\\Market\\Market\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Market\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MVC projects\\Market\\Market\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Market\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:54:45.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
