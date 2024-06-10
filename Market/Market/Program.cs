@@ -1,5 +1,6 @@
 using Market.Data;
 using Market.Services;
+using Market.Services.CategoryService;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +20,7 @@ builder.Services.AddLogging();
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>(); 
 
 
 builder.Services.AddEndpointsApiExplorer();
