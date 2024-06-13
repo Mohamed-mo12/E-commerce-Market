@@ -14,5 +14,6 @@ namespace Market.Model
         [ForeignKey("Category_ID")]
         [JsonIgnore]
         public Category Category { get; set; }
+        public ICollection<CartItems> CartItems { get; set; }
     }
 }

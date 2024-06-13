@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="DTO\ShoppingCartDTO\" />
     <Folder Include="wwwroot\assets\image\product\" />
   </ItemGroup>
 

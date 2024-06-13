@@ -1,6 +1,7 @@
 using Market.Data;
 using Market.Services;
 using Market.Services.CategoryService;
+using Market.Services.ShippingCartService;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,7 +21,8 @@ builder.Services.AddLogging();
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<ICategoryService, CategoryService>(); 
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IShoppingCartService, ShoppingCartService>(); 
 
 
 builder.Services.AddEndpointsApiExplorer();
@@ -34,6 +36,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

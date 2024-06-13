@@ -2,15 +2,12 @@
 
 namespace Market.Model
 {
-    public class Order
+    public class ShoppingCart
     {
         public int ID { get; set; }
-        public string Name { get; set; }
-        public DateTime Order_Time { get; set; }
-        public double Total_Amount { get; set; }
         public string User_ID { get; set; }
         [ForeignKey("User_ID")]
         public ApplicationUser User { get; set; }
-        public Payment Payment { get; set; }
+        public ICollection<CartItems> CartItems { get; set; }
     }
 }

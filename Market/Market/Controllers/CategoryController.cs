@@ -155,5 +155,26 @@ namespace Market.Controllers
         
         
         }
+
+        [HttpGet("Serach")]
+        public IActionResult Search(string name)
+        {
+            try
+            {
+                var result = category.SerachCategory(name);
+                if (result!=null)
+                {
+                    return Ok(result);
+                }
+                return NotFound("Category Not Found"); 
+            }
+            catch (Exception ex)
+            {
+                logger.LogError(ex, "An error occurred while retrieving category.");
+                return StatusCode(500, "Internal server error");
+
+            }
+
+        }
     }
 }

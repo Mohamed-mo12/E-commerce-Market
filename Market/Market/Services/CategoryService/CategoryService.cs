@@ -97,6 +97,21 @@ namespace Market.Services.CategoryService
             return null;  
         }
 
+        public IEnumerable<CategoryDataDTO>? SerachCategory(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+            {
+                return Enumerable.Empty<CategoryDataDTO>(); // it will return emprty collection 
+            }
+
+            var Search =  context.Categories.Where(x => x.Name.Contains(name));
+            var categoryDTO =  Search.Select(x => new CategoryDataDTO {
+              Name  = x.Name 
+            }).ToList();
+
+            return categoryDTO; 
+        }
+
         public async Task<Category> Update(int id , CategoryDataDTO category)
         {
             var UpdateCat = await context.Categories.FirstOrDefaultAsync(x=>x.ID==id);

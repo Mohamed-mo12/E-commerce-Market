@@ -26,5 +26,7 @@ namespace Market.Data
         public DbSet<Payment> payments { get; set; }
         public DbSet<FeedbackAndRating> FeedBacks { get; set; }
         public DbSet<ProductOrder> ProductOrders { get; set; }
+        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
+        public DbSet<CartItems> cartItems { get; set; }
     }
 }
